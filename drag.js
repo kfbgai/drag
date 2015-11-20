@@ -1,3 +1,3 @@
-window.onload=function(){
-	alert(1);
+window.onload=function(id){
+	obj=document.getElementById(id);
 }
