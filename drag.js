@@ -1,4 +1,7 @@
 window.onload=function(id){
+
+	var i=0;
+	var j=0;
 	var i=0;
 	var j=0;
 	obj=document.getElementById(id);
